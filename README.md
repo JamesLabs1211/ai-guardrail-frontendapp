@@ -43,7 +43,7 @@ sudo mkdir -p /opt/chatapp
 sudo chown -R $USER:$USER /opt/chatapp
 cd /opt/chatapp
 
-git clone https://github.com/JamesLabs1211/ai-guardrail-frontendapp.git
+git clone https://github.com/JamesLabs1211/ai-guardrail-case01-frontendapp.git
 ```
 
 ## 4.2 Create Python Virtual Environment
